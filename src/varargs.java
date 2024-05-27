@@ -34,7 +34,7 @@ public class varargs {
             System.out.println(y);
         }
     }
-
+// git
     public static void main(String ...args){
 
         show();
@@ -44,6 +44,9 @@ public class varargs {
 
         showList();
         showList("Amol", "Shubham", "Tushar", "Mayur", "Soham");
+
+        int amol = 1000;
+        System.out.println(amol);
 
     }
 }
